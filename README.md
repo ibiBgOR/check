@@ -3,7 +3,7 @@
 
 A class invariants helper library.
 
-Note that this isn't a test assertion library. This is for enforcing class invariants via assertions, which is generally going to be a much smaller set of comparison types that you would need in a test assertions library such as [Shouldly]().
+Note that this isn't a test assertion library. This is for enforcing class invariants via assertions, which is generally going to be a much smaller set of comparison types that you would need in a test assertions library such as [Shouldly](https://shouldly.io/).
 
 
 ## Installation
